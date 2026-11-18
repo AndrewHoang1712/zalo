@@ -1,16 +1,15 @@
 {
   "app": "gui-nhom-zalo",
-  "version": "2.6.1",
+  "version": "2.6.2",
   "date": "2026-11-18",
   "notes": [
-    "Chọn nhóm Tổng hợp: bấm nhãn để chỉ hiện nhóm của nhãn đó, có nút chọn/bỏ chọn cả nhãn",
-    "Thêm mục “Đã chọn” để xem riêng các nhóm đã chọn, nhóm đã chọn luôn nằm trên cùng"
+    "Chọn giờ dạng 24h (giờ tự tổng hợp và hẹn giờ gửi), không còn AM/PM"
   ],
   "mandatory": false,
   "needLicense": true,
   "minVersion": "2.4",
-  "file": "ban/capnhat-2.6.1.bin",
-  "size": 503924,
-  "sha256": "7120df854f0c9384bb679c937c959e423edd19083e77f967764d1a89d2a83218",
-  "sig": "zkS82i1LURdt8pmYgxwYWBRm-WluVhvw70KB-_0PJRBLQuY2tUWj7HwBHFI6DTA7aGPG3-7QZ_kFKLIjmWQ0Cg"
+  "file": "ban/capnhat-2.6.2.bin",
+  "size": 504533,
+  "sha256": "9b8c8561a5946830ce66845afccbe821b8ed17c789c672297503eff7e545bdf1",
+  "sig": "aMCzn74YBszkEeh-MoWQc16ZDd9x-pXVH95yrOK3UsbIYW7SD7Wk5Vx6mrdmu8-Fcg30gBYVWFpG7wywRCmTAg"
 }
