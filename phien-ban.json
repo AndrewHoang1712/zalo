@@ -1,17 +1,16 @@
 {
   "app": "gui-nhom-zalo",
-  "version": "2.5",
+  "version": "2.6",
   "date": "2026-11-18",
   "notes": [
-    "Tổng hợp nhóm: tự đọc tin các nhóm được chọn (vd: nhóm nội bộ công ty), tóm tắt việc cần anh xử lý, thông báo, deadline",
-    "Tóm tắt bằng AI (Claude) khi có API key, chưa có key thì lọc nhanh tin quan trọng",
-    "Tự tổng hợp theo giờ và gửi bản tổng hợp về Zalo"
+    "Chia app thành 3 nhóm chức năng: Gửi tin, Theo dõi tin, Cài đặt",
+    "Trang Cài đặt chung: chỉnh Hộp phản hồi, Tổng hợp nhóm, bản quyền, cập nhật, tự mở cùng Windows ở một chỗ"
   ],
   "mandatory": false,
   "needLicense": true,
   "minVersion": "2.4",
-  "file": "ban/capnhat-2.5.bin",
-  "size": 499041,
-  "sha256": "e73eccb670d5640882b669fd8d69c6b3ef04e1c820eb3cce1242562545d732d6",
-  "sig": "inRjpCjxWePc214BBUP6R1G4iGTNITwU_ZnvsK4vbOHgVx6Yn3G3f-ijuAoAgn2QTkfBpo9Svy9PtzzTU_tTAg"
+  "file": "ban/capnhat-2.6.bin",
+  "size": 502905,
+  "sha256": "4626161b4b3e76baf32f14c1c12fb95430ab32618f4f4c04fa10115b7646a143",
+  "sig": "cUR21ExQGV3DlmwxUfej-1_kNCUiFjYR2uscuT2-c81h_5X3RgXQ20r9pY5Lcd8L19MwCQ_VP80yaqzjBW78DQ"
 }
