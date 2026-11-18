@@ -1,15 +1,15 @@
 {
   "app": "gui-nhom-zalo",
-  "version": "2.4",
+  "version": "2.4.1",
   "date": "2026-11-18",
   "notes": [
-    "Bản đầu tiên có tự cập nhật"
+    "Mở app không còn cửa sổ đen, kể cả trên Windows 11 và khi mở bằng lối tắt cũ"
   ],
   "mandatory": false,
   "needLicense": true,
   "minVersion": "2.4",
-  "file": "ban/capnhat-2.4.bin",
-  "size": 479891,
-  "sha256": "78edb6a7e3439e41f5abc4d2ecf2ae333660c344620ca4ba1f28bcb91c80b96b",
-  "sig": "b-AzQV0v5bPn7-ArQHy4sC3TdioxuSFctOmEpq8s361EDYDm5QrIcprNVwOIQgf271hyawBEW7O36O6eeHpTDA"
+  "file": "ban/capnhat-2.4.1.bin",
+  "size": 480331,
+  "sha256": "066260825e5297f83b6f1e53d6cc796836b148822d5958a56d7ffed3413f5264",
+  "sig": "U4vlzWB2uaf9rEEHyc_IMIsNjfcz8ufaMZAs80VUuQdW4nqodzcBhbqQeyi-sdJRsu2MqvoHfzCncc3w-301DA"
 }
