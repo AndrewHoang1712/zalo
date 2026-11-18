@@ -1,15 +1,15 @@
 {
   "app": "gui-nhom-zalo",
-  "version": "2.6.4",
+  "version": "2.6.5",
   "date": "2026-11-18",
   "notes": [
-    "Đổi tên app thành Trợ Lý Nhóm (chỉ đổi tên hiển thị, dữ liệu và cách dùng giữ nguyên)"
+    "Đổi tên app thành TH-Flow – Trợ lý nhóm Zalo (chỉ đổi tên hiển thị, dữ liệu và cách dùng giữ nguyên)"
   ],
   "mandatory": false,
   "needLicense": true,
   "minVersion": "2.4",
-  "file": "ban/capnhat-2.6.4.bin",
-  "size": 507035,
-  "sha256": "5ad8bc4436642c4cd799bfa7d5f6127f7a36787d9caf68b70a252024bed9fad6",
-  "sig": "MKKSQZrSzkmiUVXa4WArU3n7Gi5bvJTfShuT4q0v2x2-gWNB-Xjo6nCBvuqj4hUVToY_sIuMF9uT7vsMpT-gCA"
+  "file": "ban/capnhat-2.6.5.bin",
+  "size": 507402,
+  "sha256": "27b85ee0bcf0793730a0577664991e4aec6517deffa329ac4eadedc62520eb27",
+  "sig": "vAhI9GA5_q4kPXSpucCWd_-TAQdestnJ0zrsxRSmv5i16hhVYMtWp8LfJV0nF9dKJVCsXxck7CGbhPfygG3GAw"
 }
