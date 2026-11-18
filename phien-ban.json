@@ -1,15 +1,17 @@
 {
   "app": "gui-nhom-zalo",
-  "version": "2.4.1",
+  "version": "2.5",
   "date": "2026-11-18",
   "notes": [
-    "Mở app không còn cửa sổ đen, kể cả trên Windows 11 và khi mở bằng lối tắt cũ"
+    "Tổng hợp nhóm: tự đọc tin các nhóm được chọn (vd: nhóm nội bộ công ty), tóm tắt việc cần anh xử lý, thông báo, deadline",
+    "Tóm tắt bằng AI (Claude) khi có API key, chưa có key thì lọc nhanh tin quan trọng",
+    "Tự tổng hợp theo giờ và gửi bản tổng hợp về Zalo"
   ],
   "mandatory": false,
   "needLicense": true,
   "minVersion": "2.4",
-  "file": "ban/capnhat-2.4.1.bin",
-  "size": 480331,
-  "sha256": "066260825e5297f83b6f1e53d6cc796836b148822d5958a56d7ffed3413f5264",
-  "sig": "U4vlzWB2uaf9rEEHyc_IMIsNjfcz8ufaMZAs80VUuQdW4nqodzcBhbqQeyi-sdJRsu2MqvoHfzCncc3w-301DA"
+  "file": "ban/capnhat-2.5.bin",
+  "size": 499041,
+  "sha256": "e73eccb670d5640882b669fd8d69c6b3ef04e1c820eb3cce1242562545d732d6",
+  "sig": "inRjpCjxWePc214BBUP6R1G4iGTNITwU_ZnvsK4vbOHgVx6Yn3G3f-ijuAoAgn2QTkfBpo9Svy9PtzzTU_tTAg"
 }
