@@ -1,16 +1,15 @@
 {
   "app": "gui-nhom-zalo",
-  "version": "2.6.6",
+  "version": "2.6.7",
   "date": "2026-11-18",
   "notes": [
-    "Tên trên tab trình duyệt chỉ ghi \"TH-Flow – Trợ lý nhóm Zalo\", không kèm số phiên bản",
-    "Có bản cho máy Mac (macOS)"
+    "Thanh chức năng xếp lại: Theo dõi tin → Gửi tin → Cài đặt; mở app vào thẳng Theo dõi tin"
   ],
   "mandatory": false,
   "needLicense": true,
   "minVersion": "2.4",
-  "file": "ban/capnhat-2.6.6.bin",
-  "size": 507324,
-  "sha256": "ed6a33e1ee16b0b2427733032adb0697301b59255c05093997a880549983bd49",
-  "sig": "D76mmq_5LEeos0-hWDkqCTNfw06PhSZaPR13QnaeoQo6pdgN55ill2-RyGUy3iWTs5yk4SpvS-R3EklL5mh9Dg"
+  "file": "ban/capnhat-2.6.7.bin",
+  "size": 508200,
+  "sha256": "8e6d01f343b7db33dd6f55fd54d23846210a9119113f38218976f59167eef5f7",
+  "sig": "uFo91GtHeDVK1wJVy2w15iPNt0uuGoseZk5eatKR-ApUxcwzsny7QqXVoj1pndqTajoZ2oJOu7MO437ulD6wAQ"
 }
