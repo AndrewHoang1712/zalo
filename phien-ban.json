@@ -1,0 +1,15 @@
+{
+  "app": "gui-nhom-zalo",
+  "version": "2.4",
+  "date": "2026-11-18",
+  "notes": [
+    "Bản đầu tiên có tự cập nhật"
+  ],
+  "mandatory": false,
+  "needLicense": true,
+  "minVersion": "2.4",
+  "file": "ban/capnhat-2.4.bin",
+  "size": 479891,
+  "sha256": "78edb6a7e3439e41f5abc4d2ecf2ae333660c344620ca4ba1f28bcb91c80b96b",
+  "sig": "b-AzQV0v5bPn7-ArQHy4sC3TdioxuSFctOmEpq8s361EDYDm5QrIcprNVwOIQgf271hyawBEW7O36O6eeHpTDA"
+}
