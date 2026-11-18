@@ -1,6 +1,6 @@
-# Gửi Nhóm Zalo — kho cập nhật tự động
+# Trợ Lý Nhóm — kho cập nhật tự động
 
-Kho này chứa bản cập nhật tự động cho phần mềm **Gửi Nhóm Zalo** (by Thuan Hoang · Zalo 0986 454 568).
+Kho này chứa bản cập nhật tự động cho phần mềm **Trợ Lý Nhóm** (tên cũ: Gửi Nhóm Zalo; by Thuan Hoang · Zalo 0986 454 568).
 
 - `phien-ban.json`: thông tin bản mới nhất, có chữ ký của tác giả.
 - `ban/`: các gói cập nhật.
