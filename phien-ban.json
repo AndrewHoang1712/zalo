@@ -1,15 +1,19 @@
 {
   "app": "gui-nhom-zalo",
-  "version": "2.6.2",
+  "version": "2.6.3",
   "date": "2026-11-18",
   "notes": [
-    "Chọn giờ dạng 24h (giờ tự tổng hợp và hẹn giờ gửi), không còn AM/PM"
+    "Sửa Tổng hợp nhóm ra 0 tin: Zalo đã đổi cách lấy tin cũ, app chuyển sang cách mới nên đọc bù được tin lúc app tắt",
+    "Thanh trạng thái Tổng hợp báo rõ khi Zalo Web đang mở nơi khác, có nút Kết nối lại",
+    "Hộp phản hồi tự nhận ra anh đã trả lời từ điện thoại; Thu hồi tìm tin chính xác hơn",
+    "Thêm nút Xoá từng bản tổng hợp và Xoá hết",
+    "Đầu trang không hiện số điện thoại"
   ],
   "mandatory": false,
   "needLicense": true,
   "minVersion": "2.4",
-  "file": "ban/capnhat-2.6.2.bin",
-  "size": 504533,
-  "sha256": "9b8c8561a5946830ce66845afccbe821b8ed17c789c672297503eff7e545bdf1",
-  "sig": "aMCzn74YBszkEeh-MoWQc16ZDd9x-pXVH95yrOK3UsbIYW7SD7Wk5Vx6mrdmu8-Fcg30gBYVWFpG7wywRCmTAg"
+  "file": "ban/capnhat-2.6.3.bin",
+  "size": 507903,
+  "sha256": "bba6f7b67c79640e894138c157ddec55b937af7c7fe83079c5469ccfcdb257e4",
+  "sig": "abSxIh4tk1AbRTi41VtDY1TyhUHr9FWFTJwlWrzEta_P2FSX1QFvy24A4vDMj91NqBT77aqLacWOlAKMnwBYBA"
 }
