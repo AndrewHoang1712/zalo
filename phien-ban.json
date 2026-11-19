@@ -1,15 +1,15 @@
 {
   "app": "gui-nhom-zalo",
-  "version": "2.6.8",
+  "version": "2.6.9",
   "date": "2026-11-19",
   "notes": [
-    "Thêm màu nhẹ cho từng mục để dễ phân biệt: Hộp phản hồi xanh ngọc, Tổng hợp tím, Gửi tin xanh dương, Lịch sử hồng, Cài đặt cam"
+    "Chọn cách app gọi mình: anh / chị / bạn (hỏi 1 lần khi mở app, đổi trong Cài đặt). Áp dụng cho chữ trong app, tin báo và bản tổng hợp"
   ],
   "mandatory": false,
   "needLicense": true,
   "minVersion": "2.4",
-  "file": "ban/capnhat-2.6.8.bin",
-  "size": 509841,
-  "sha256": "bb19b305075463972a011b611d7caacb5e7b15332d7e2ee36be39366b5a9b9fb",
-  "sig": "1Es2kkKMhYCmPI9k4RS8evnZEPr6AzXKj4mvqPffov_alv9cu5NhqWdZF3h8pOWkZPXpabCQn4FLsa8E3CRpCw"
+  "file": "ban/capnhat-2.6.9.bin",
+  "size": 510062,
+  "sha256": "288685cff730a8c2285425d72a115f655f2b8f53348c021c0adbfad3378d091c",
+  "sig": "oeq5DU7RLsQRG66tg_CdLIh-uADRo-tL8nRyXaqLz5ZtNKOn54hzQS_IFY1OS2e2rh4dtqrkv2i9TUQ_zKC9BQ"
 }
