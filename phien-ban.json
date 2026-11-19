@@ -1,15 +1,15 @@
 {
   "app": "gui-nhom-zalo",
-  "version": "2.6.9",
+  "version": "2.6.10",
   "date": "2026-11-19",
   "notes": [
-    "Chọn cách app gọi mình: anh / chị / bạn (hỏi 1 lần khi mở app, đổi trong Cài đặt). Áp dụng cho chữ trong app, tin báo và bản tổng hợp"
+    "Sửa lỗi Cài đặt Hộp phản hồi: bấm chọn nhãn (chọn được nhiều nhãn), nút Tìm số Zalo nhận tin nhắc và Gửi thử tin báo chạy lại bình thường"
   ],
   "mandatory": false,
   "needLicense": true,
   "minVersion": "2.4",
-  "file": "ban/capnhat-2.6.9.bin",
-  "size": 510062,
-  "sha256": "288685cff730a8c2285425d72a115f655f2b8f53348c021c0adbfad3378d091c",
-  "sig": "oeq5DU7RLsQRG66tg_CdLIh-uADRo-tL8nRyXaqLz5ZtNKOn54hzQS_IFY1OS2e2rh4dtqrkv2i9TUQ_zKC9BQ"
+  "file": "ban/capnhat-2.6.10.bin",
+  "size": 511435,
+  "sha256": "7e5cbeff1d80861073a484a9c5695747f0d8743401e6f2b915cc167336cae511",
+  "sig": "lp5BLBIvE7ammHuIGtdWTcvpxBok06UiACEF7avqnGXCvD_HMLtDgkzKX1RJSPRAwetlil6KuSje7H5I1KSvDw"
 }
