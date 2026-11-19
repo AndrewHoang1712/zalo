@@ -1,15 +1,17 @@
 {
   "app": "gui-nhom-zalo",
-  "version": "2.6.10",
+  "version": "2.6.11",
   "date": "2026-11-19",
   "notes": [
-    "Sửa lỗi Cài đặt Hộp phản hồi: bấm chọn nhãn (chọn được nhiều nhãn), nút Tìm số Zalo nhận tin nhắc và Gửi thử tin báo chạy lại bình thường"
+    "Hộp phản hồi: thả cảm xúc (tim, like…) vào tin cũng tính là đã trả lời",
+    "Quay lại cửa sổ app sau khi trả lời bên Zalo thì app tự soát và gỡ nhóm ngay",
+    "Nhận đúng tin anh tự gửi từ điện thoại/Zalo PC"
   ],
   "mandatory": false,
   "needLicense": true,
   "minVersion": "2.4",
-  "file": "ban/capnhat-2.6.10.bin",
-  "size": 511435,
-  "sha256": "7e5cbeff1d80861073a484a9c5695747f0d8743401e6f2b915cc167336cae511",
-  "sig": "lp5BLBIvE7ammHuIGtdWTcvpxBok06UiACEF7avqnGXCvD_HMLtDgkzKX1RJSPRAwetlil6KuSje7H5I1KSvDw"
+  "file": "ban/capnhat-2.6.11.bin",
+  "size": 512629,
+  "sha256": "751715393b58bf6047ea6a4a48fde36f38a4d151dfd0f863d6103e90b69cc0d3",
+  "sig": "WyMMWbYLw9C-l2YBcjqXjubjm8k8K5G2teY7l4mADRtEpquyHV7HWg6sK0elDIR1wRLJ3QWx8YnAFpM1nGXiAA"
 }
