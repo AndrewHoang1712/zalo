@@ -1,15 +1,16 @@
 {
   "app": "gui-nhom-zalo",
-  "version": "2.6.12",
+  "version": "2.6.14",
   "date": "2026-11-19",
   "notes": [
-    "Nhóm không điền xưng hô thì chỗ {xungho} trong tin để trống (không tự điền \"anh/chị\" nữa), câu tự gọn không dư dấu cách"
+    "Có bản mới thì thẻ Cài đặt hiện số 1; vào Cài đặt thấy bản đang dùng → bản mới và nút Cập nhật ngay",
+    "Tự tải lại danh sách nhóm và nhãn Zalo mỗi ngày (lần đầu đăng nhập trong ngày)"
   ],
   "mandatory": false,
   "needLicense": true,
   "minVersion": "2.4",
-  "file": "ban/capnhat-2.6.12.bin",
-  "size": 513079,
-  "sha256": "faff8bcb8d03ef605d38828eb44ae684e5245e08bec6b9cdcad65015bf5a75a8",
-  "sig": "_UQCORxMxZk31MwvV5JIAQSuzQP5rVxArFtuwus-GXx-PKy4xrzpkqqeeO8RHvl3zCJR3uwHG3E5vSEaifUBBA"
+  "file": "ban/capnhat-2.6.14.bin",
+  "size": 514459,
+  "sha256": "2420a4232c491582b64d78684206b3ca863e06b2332d196a3e43668d9aeb0684",
+  "sig": "GY-IB011OzQjcui25G81v4jUXfoQzbb0d6-WCuQUEQY3BvT32EqJuxoq28UsSSQPqRSjhbAQDImIs7Acd5ZACg"
 }
