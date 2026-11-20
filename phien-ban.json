@@ -1,16 +1,17 @@
 {
   "app": "gui-nhom-zalo",
-  "version": "2.6.14",
-  "date": "2026-11-19",
+  "version": "2.7.0",
+  "date": "2026-11-20",
   "notes": [
-    "Có bản mới thì thẻ Cài đặt hiện số 1; vào Cài đặt thấy bản đang dùng → bản mới và nút Cập nhật ngay",
-    "Tự tải lại danh sách nhóm và nhãn Zalo mỗi ngày (lần đầu đăng nhập trong ngày)"
+    "Thêm Trợ lý ghi nhớ (Theo dõi tin → Trợ lý): lưu tin các nhóm công việc 6 tháng",
+    "Nhật ký công việc AI lúc 18:00, bản tin sáng 8:00 gửi về Zalo",
+    "Tìm lại tin cũ không cần gõ dấu, xem đoạn chat xung quanh"
   ],
   "mandatory": false,
   "needLicense": true,
   "minVersion": "2.4",
-  "file": "ban/capnhat-2.6.14.bin",
-  "size": 514459,
-  "sha256": "2420a4232c491582b64d78684206b3ca863e06b2332d196a3e43668d9aeb0684",
-  "sig": "GY-IB011OzQjcui25G81v4jUXfoQzbb0d6-WCuQUEQY3BvT32EqJuxoq28UsSSQPqRSjhbAQDImIs7Acd5ZACg"
+  "file": "ban/capnhat-2.7.0.bin",
+  "size": 541100,
+  "sha256": "c48989d81d9b8b709576a4190145a29b4bc067a166ff5e6846532d67ba0d874d",
+  "sig": "uQZWZ_uFBL9YpDxwfPBLJ-khshwQAJLNxhK1lKm5nf8Rafk-4CdqdXFOUU6uIssoHauFJSV-LDh53vibEzQzCw"
 }
