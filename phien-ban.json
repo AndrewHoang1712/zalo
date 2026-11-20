@@ -1,16 +1,16 @@
 {
   "app": "gui-nhom-zalo",
-  "version": "2.8.0",
+  "version": "2.8.1",
   "date": "2026-11-20",
   "notes": [
-    "Tổng hợp nhóm theo nhiều bộ (Công ty, Khách hàng, Gia đình…): mỗi bộ có group chat, giờ tự tổng hợp và kiểu tóm tắt riêng",
-    "Cài đặt cũ tự chuyển thành bộ \"Công ty\", giữ nguyên nhóm và giờ"
+    "Tên người nhắn hiện theo tên gợi nhớ anh đã đặt trong Zalo (Hộp phản hồi, Tổng hợp, Trợ lý, chọn người để tag); tìm tin trong Trợ lý gõ được cả tên gợi nhớ",
+    "Khung chọn nhóm (tạo bộ tổng hợp, Trợ lý, bước Chọn nhóm) bật được nhiều nhãn cùng lúc rồi \"Chọn cả\" một lần"
   ],
   "mandatory": false,
   "needLicense": true,
   "minVersion": "2.4",
-  "file": "ban/capnhat-2.8.0.bin",
-  "size": 552350,
-  "sha256": "3e257b9d534fd5c9affe17ee3a86a864de9f961e9be1221afb0470ae1e9e21d2",
-  "sig": "FbZY21GJNpRRrD9OgvuuYai3m479RHvZnmUIu19mYVfZQ4rrXrMlz4WwuR-cN1RwDCHIc79jA3Jio4OHm-q5Dg"
+  "file": "ban/capnhat-2.8.1.bin",
+  "size": 554582,
+  "sha256": "75e9e6d068428761fe9c6b192e6eb13cf220d6fca99287addbd09dff4d774b72",
+  "sig": "V6evQU803XzIHki_pQkDt12HR6fuI8b8UC8WEAbWKfVZ5IymTVlJ2Eom_nAnQJVD-qdCzFrrNB1b6ujsULvIDA"
 }
