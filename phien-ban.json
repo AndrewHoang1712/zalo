@@ -1,16 +1,16 @@
 {
   "app": "gui-nhom-zalo",
-  "version": "2.8.5",
+  "version": "2.8.6",
   "date": "2026-11-20",
   "notes": [
-    "Tổng hợp nhóm chọn được khoảng dài: hôm qua, 3 ngày, 1 tuần, 2 tuần, 1 tháng",
-    "Khoảng dài: AI tóm theo chủ đề, ghi ngày cho các mốc, nêu việc còn tồn đọng"
+    "Thêm hiệu ứng động nhẹ: chuyển mục mượt, hộp thoại và thông báo trượt lên, nút bấm lún nhẹ",
+    "Khách nhắn mới thì thẻ sáng viền, số đếm nảy lên; thẻ đã xử lý/xoá trượt ra; thanh tiến trình gửi có vệt sáng"
   ],
   "mandatory": false,
   "needLicense": true,
   "minVersion": "2.4",
-  "file": "ban/capnhat-2.8.5.bin",
-  "size": 559383,
-  "sha256": "7cfe822628b636c8ff26c776117a5e9668dbea346de04afc9e949253b8a8aea5",
-  "sig": "_XKSYTbTMAovncvVldiISHwdp1G01gQXaxQlpz7WlbsEdv-NwX7s3FO4mMsvfJq-HBEqOKwFMDMIe8O-R0eODQ"
+  "file": "ban/capnhat-2.8.6.bin",
+  "size": 560995,
+  "sha256": "65f1a259f45ded20647ffb6d109d4e876bc35181fef3b33696ef26c7826db951",
+  "sig": "Sq3Q7_-CBFvKfn4LmbG5vq6JjPsX41exnzBjQwT_0pKXugObKyu7avUQ7gXyY3_WblVqdaUVLHqsXbivc-DZCA"
 }
