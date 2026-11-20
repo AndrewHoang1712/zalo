@@ -1,15 +1,16 @@
 {
   "app": "gui-nhom-zalo",
-  "version": "2.8.2",
+  "version": "2.8.3",
   "date": "2026-11-20",
   "notes": [
-    "Phần tiêu đề các mục gọn lại (chữ nhỏ hơn, mô tả 1 dòng, nút cùng hàng) để có thêm chỗ hiện nội dung"
+    "Giao diện gọn để hiện được nhiều nội dung hơn: thanh chức năng nằm chung hàng trên cùng, nội dung trải rộng hơn trên màn hình lớn, các khung và dòng sát lại",
+    "Bản tổng hợp, nhật ký, bản tin sáng bỏ dòng trống thừa, gạch đầu dòng dài xuống hàng thẳng hàng"
   ],
   "mandatory": false,
   "needLicense": true,
   "minVersion": "2.4",
-  "file": "ban/capnhat-2.8.2.bin",
-  "size": 554222,
-  "sha256": "f32312d062ba7d2fe0f3ea92762d10480172bf92d0ac80d3db24e41e09b20460",
-  "sig": "IvTsskm2yn5Oc9R17RpWFMksGMNPfH_e0oP8igrWClaUXrEwZ9Mu5boVUC-QMVKwv0vCTXpSIKs3hBwfL9M6Bg"
+  "file": "ban/capnhat-2.8.3.bin",
+  "size": 555890,
+  "sha256": "3740712c17a506ee22528fac845b5772c63aad6df241698f97b8fd74aca698e3",
+  "sig": "JRoYd8XKOUpXo4qilAgMmVRk96Kd4DIHCgReqiFY5dTZiMp380gjqFDZXHeVI-mA69ucv0vcdsduqJdzwGWvDw"
 }
