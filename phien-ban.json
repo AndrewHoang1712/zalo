@@ -1,17 +1,17 @@
 {
   "app": "gui-nhom-zalo",
-  "version": "2.9.1",
+  "version": "2.9.2",
   "date": "2026-11-20",
   "notes": [
-    "Thống kê chọn được nhóm tuỳ ý (✎ Tự chọn nhóm…), app nhớ lựa chọn và khoảng thời gian cho lần sau",
-    "Sửa lỗi xuất lịch sử chat bị thiếu tin: đọc tiếp qua các đoạn tin đã thu hồi/ẩn, tự thử lại khi Zalo chặn tạm, hiện tiến độ",
-    "Tổng hợp khoảng dài, Trợ lý và Thống kê đọc tin cũ đủ hơn"
+    "Xuất lịch sử chat lấy được tin cũ hơn: đọc thêm kho tin cũ của Zalo khi kho tin mới báo hết",
+    "App tự lưu tin các nhóm 3 tháng trên máy này để lần sau xuất đủ (tắt được ở Cài đặt → Thống kê)",
+    "Ghi rõ lý do khi lịch sử bị thiếu (trước lúc vào nhóm, hoặc Zalo không còn giữ)"
   ],
   "mandatory": false,
   "needLicense": true,
   "minVersion": "2.4",
-  "file": "ban/capnhat-2.9.1.bin",
-  "size": 624486,
-  "sha256": "9a5a576ef3e5efa7edf2444b247694ea03bc813e696907c75784c1255dbd0848",
-  "sig": "3WYDGTsnDR7fEFRMl3D-hvUeEE1OA4uHVGbJT_vN8RBGlNQ9NY0nAD1iE4lUr9nnAt5HDFe7reNRpHwThaOWDw"
+  "file": "ban/capnhat-2.9.2.bin",
+  "size": 627558,
+  "sha256": "6f142a352e14b0e6f93ffdabc665548fe4a37a8987a648b1c80e7f01a3793bcd",
+  "sig": "eNmsi865VPycRYs28Kc1YRU_MGpIyDmK1rShRbddAKqFgAuxOEF8BmxTcggJe5BVH8bsdZKHkFGvcXc2aA36Cw"
 }
