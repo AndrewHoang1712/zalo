@@ -1,17 +1,18 @@
 {
   "app": "gui-nhom-zalo",
-  "version": "2.8.7",
+  "version": "2.9.0",
   "date": "2026-11-20",
   "notes": [
-    "Thêm Hướng dẫn sử dụng ngay trong app: Cài đặt → Hướng dẫn sử dụng (hoặc link cuối trang), có mục lục và ô tìm",
-    "Sửa lỗi xưng hô và người tag bị mất khi mở app ở nhiều tab: chỉ một tab dùng app, tab cũ tự tạm dừng",
-    "Ô xưng hô sáng \"✓ Đã lưu\" khi gõ xong"
+    "Mới: Chờ hồi âm — gom tin bạn hỏi/nhờ người khác mà họ chưa trả lời, quá hạn thì nhắc, nút Nhắc lại 1 bấm",
+    "Mới: Thống kê nhóm — số tin, người nhắn nhiều, giờ cao điểm, thời gian trả lời",
+    "Mới: Xuất lịch sử chat một nhóm ra file Excel hoặc bản in / PDF",
+    "Hướng dẫn sử dụng trong app có thêm 2 mục cho các tính năng mới"
   ],
   "mandatory": false,
   "needLicense": true,
   "minVersion": "2.4",
-  "file": "ban/capnhat-2.8.7.bin",
-  "size": 572599,
-  "sha256": "950497e6d759c2fa152402389b00968a92ceb9366ac1dd8f237aaacf14de456d",
-  "sig": "FV1Ag0raahzVZccc6gGEkfmutLMCM-o8ec_lfxzoWabUnwIx9PO8AeLMHNDB_Xc52il-NcQwtFldzvThcc9sBg"
+  "file": "ban/capnhat-2.9.0.bin",
+  "size": 621223,
+  "sha256": "b4e2a64ecd2db9711fdbd4361d198262ce55c57ea629c4e649086d3d07d55edf",
+  "sig": "npm4dtL0CcqlvxzVmLSM-8Ew007Q_ae-6zWVFzZ8tk-a_Y88hG0--8j2yQTu9YDy6pup__LvHNBwz210-AxFDw"
 }
