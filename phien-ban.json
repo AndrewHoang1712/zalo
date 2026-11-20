@@ -1,16 +1,17 @@
 {
   "app": "gui-nhom-zalo",
-  "version": "2.8.6",
+  "version": "2.8.7",
   "date": "2026-11-20",
   "notes": [
-    "Thêm hiệu ứng động nhẹ: chuyển mục mượt, hộp thoại và thông báo trượt lên, nút bấm lún nhẹ",
-    "Khách nhắn mới thì thẻ sáng viền, số đếm nảy lên; thẻ đã xử lý/xoá trượt ra; thanh tiến trình gửi có vệt sáng"
+    "Thêm Hướng dẫn sử dụng ngay trong app: Cài đặt → Hướng dẫn sử dụng (hoặc link cuối trang), có mục lục và ô tìm",
+    "Sửa lỗi xưng hô và người tag bị mất khi mở app ở nhiều tab: chỉ một tab dùng app, tab cũ tự tạm dừng",
+    "Ô xưng hô sáng \"✓ Đã lưu\" khi gõ xong"
   ],
   "mandatory": false,
   "needLicense": true,
   "minVersion": "2.4",
-  "file": "ban/capnhat-2.8.6.bin",
-  "size": 560995,
-  "sha256": "65f1a259f45ded20647ffb6d109d4e876bc35181fef3b33696ef26c7826db951",
-  "sig": "Sq3Q7_-CBFvKfn4LmbG5vq6JjPsX41exnzBjQwT_0pKXugObKyu7avUQ7gXyY3_WblVqdaUVLHqsXbivc-DZCA"
+  "file": "ban/capnhat-2.8.7.bin",
+  "size": 572599,
+  "sha256": "950497e6d759c2fa152402389b00968a92ceb9366ac1dd8f237aaacf14de456d",
+  "sig": "FV1Ag0raahzVZccc6gGEkfmutLMCM-o8ec_lfxzoWabUnwIx9PO8AeLMHNDB_Xc52il-NcQwtFldzvThcc9sBg"
 }
