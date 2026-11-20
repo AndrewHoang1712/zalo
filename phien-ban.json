@@ -1,16 +1,15 @@
 {
   "app": "gui-nhom-zalo",
-  "version": "2.8.1",
+  "version": "2.8.2",
   "date": "2026-11-20",
   "notes": [
-    "Tên người nhắn hiện theo tên gợi nhớ anh đã đặt trong Zalo (Hộp phản hồi, Tổng hợp, Trợ lý, chọn người để tag); tìm tin trong Trợ lý gõ được cả tên gợi nhớ",
-    "Khung chọn nhóm (tạo bộ tổng hợp, Trợ lý, bước Chọn nhóm) bật được nhiều nhãn cùng lúc rồi \"Chọn cả\" một lần"
+    "Phần tiêu đề các mục gọn lại (chữ nhỏ hơn, mô tả 1 dòng, nút cùng hàng) để có thêm chỗ hiện nội dung"
   ],
   "mandatory": false,
   "needLicense": true,
   "minVersion": "2.4",
-  "file": "ban/capnhat-2.8.1.bin",
-  "size": 554582,
-  "sha256": "75e9e6d068428761fe9c6b192e6eb13cf220d6fca99287addbd09dff4d774b72",
-  "sig": "V6evQU803XzIHki_pQkDt12HR6fuI8b8UC8WEAbWKfVZ5IymTVlJ2Eom_nAnQJVD-qdCzFrrNB1b6ujsULvIDA"
+  "file": "ban/capnhat-2.8.2.bin",
+  "size": 554222,
+  "sha256": "f32312d062ba7d2fe0f3ea92762d10480172bf92d0ac80d3db24e41e09b20460",
+  "sig": "IvTsskm2yn5Oc9R17RpWFMksGMNPfH_e0oP8igrWClaUXrEwZ9Mu5boVUC-QMVKwv0vCTXpSIKs3hBwfL9M6Bg"
 }
