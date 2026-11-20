@@ -1,15 +1,16 @@
 {
   "app": "gui-nhom-zalo",
-  "version": "2.8.4",
+  "version": "2.8.5",
   "date": "2026-11-20",
   "notes": [
-    "Các nút và thẻ chuyển mục (Hộp phản hồi, Tổng hợp nhóm, Trợ lý, các bước Gửi tin, Cài đặt, Xoá…) có viền để dễ nhận ra là nút bấm"
+    "Tổng hợp nhóm chọn được khoảng dài: hôm qua, 3 ngày, 1 tuần, 2 tuần, 1 tháng",
+    "Khoảng dài: AI tóm theo chủ đề, ghi ngày cho các mốc, nêu việc còn tồn đọng"
   ],
   "mandatory": false,
   "needLicense": true,
   "minVersion": "2.4",
-  "file": "ban/capnhat-2.8.4.bin",
-  "size": 556109,
-  "sha256": "219d612d2169a42414b690595d40ffa64394aa0b5d2151e4a32b615b764afed7",
-  "sig": "BTWwFaZycQqFRQDSN5_TZkcYYNbOU43GX0lyC2flLxnPwoQhcaH_ohjT492HlFD1WDKZXVfYp5VihMtaffT_Aw"
+  "file": "ban/capnhat-2.8.5.bin",
+  "size": 559383,
+  "sha256": "7cfe822628b636c8ff26c776117a5e9668dbea346de04afc9e949253b8a8aea5",
+  "sig": "_XKSYTbTMAovncvVldiISHwdp1G01gQXaxQlpz7WlbsEdv-NwX7s3FO4mMsvfJq-HBEqOKwFMDMIe8O-R0eODQ"
 }
