@@ -1,17 +1,16 @@
 {
   "app": "gui-nhom-zalo",
-  "version": "2.9.2",
-  "date": "2026-11-20",
+  "version": "2.9.3",
+  "date": "2026-11-21",
   "notes": [
-    "Xuất lịch sử chat lấy được tin cũ hơn: đọc thêm kho tin cũ của Zalo khi kho tin mới báo hết",
-    "App tự lưu tin các nhóm 3 tháng trên máy này để lần sau xuất đủ (tắt được ở Cài đặt → Thống kê)",
-    "Ghi rõ lý do khi lịch sử bị thiếu (trước lúc vào nhóm, hoặc Zalo không còn giữ)"
+    "Bỏ mục Thống kê",
+    "Xuất lịch sử chat chuyển sang mục Trợ lý (nút cạnh Cài đặt) và Cài đặt → Xuất lịch sử chat"
   ],
   "mandatory": false,
   "needLicense": true,
   "minVersion": "2.4",
-  "file": "ban/capnhat-2.9.2.bin",
-  "size": 627558,
-  "sha256": "6f142a352e14b0e6f93ffdabc665548fe4a37a8987a648b1c80e7f01a3793bcd",
-  "sig": "eNmsi865VPycRYs28Kc1YRU_MGpIyDmK1rShRbddAKqFgAuxOEF8BmxTcggJe5BVH8bsdZKHkFGvcXc2aA36Cw"
+  "file": "ban/capnhat-2.9.3.bin",
+  "size": 615845,
+  "sha256": "cd0145aacfd561e4a591dc0275c1d7de4bf46738c76fb3373ff55462329684bd",
+  "sig": "DmVQicI6WuyCQw6F7eiL524clF34nCGaoFN4u7OZB5GYC8Cy1BX_4pqIB9pK5uhBxOpGFawuFrrmAZjb1hmWDA"
 }
