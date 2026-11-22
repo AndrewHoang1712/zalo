@@ -1,17 +1,17 @@
 {
   "app": "gui-nhom-zalo",
-  "version": "2.10.0",
+  "version": "2.10.1",
   "date": "2026-11-22",
   "notes": [
-    "Thêm mục Tin nhắn: khung chat đọc và trả lời tin nhóm, tin nhắn riêng ngay trong app (Theo dõi tin → Tin nhắn)",
-    "Thêm WhatsApp và Telegram: tin chưa trả lời hiện chung trong Hộp phản hồi và mục Tin nhắn, trả lời từng tin (không gửi hàng loạt)",
-    "Kết nối ở Cài đặt → WhatsApp / Telegram, quét mã bằng điện thoại"
+    "Mục Tin nhắn chia Ưu tiên / Khác như Zalo: bấm ⋯ hoặc chuột phải vào cuộc trò chuyện → Chuyển sang mục Khác",
+    "Lọc nhanh tin Zalo / Telegram / WhatsApp ở mục Tin nhắn và Hộp phản hồi",
+    "Ghim cuộc trò chuyện lên đầu, đánh dấu đã đọc; mục Khác không làm tăng số đếm, không báo tin mới"
   ],
   "mandatory": false,
   "needLicense": true,
   "minVersion": "2.4",
-  "file": "ban/capnhat-2.10.0.bin",
-  "size": 9969131,
-  "sha256": "c1d7d95e69b6d4a7bc00b607ec435d971a5244c149cdaff7f2a66049376296d2",
-  "sig": "RCcMijLni_Dnt2Ei5HuKmM8qCNmopFIpQSIc6r1f06Q7UIIup5fkU_v1m_VxGiDjRl1yviUw_BMzVHLcOMcLBQ"
+  "file": "ban/capnhat-2.10.1.bin",
+  "size": 9972455,
+  "sha256": "a54f786e3bc9d878d889265e6060e7d906f6b9b3e1eb638fb4351e27cd5e329a",
+  "sig": "0TSY3cYZXuIpeoKjLON7GNwYb0UbnqzkZAWT47eGVNi8LUbYSzpZudayf7Cz9QInZl1Gph4BWflUZlyrM5xTAg"
 }
