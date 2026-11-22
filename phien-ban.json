@@ -1,16 +1,17 @@
 {
   "app": "gui-nhom-zalo",
-  "version": "2.9.3",
-  "date": "2026-11-21",
+  "version": "2.10.0",
+  "date": "2026-11-22",
   "notes": [
-    "Bỏ mục Thống kê",
-    "Xuất lịch sử chat chuyển sang mục Trợ lý (nút cạnh Cài đặt) và Cài đặt → Xuất lịch sử chat"
+    "Thêm mục Tin nhắn: khung chat đọc và trả lời tin nhóm, tin nhắn riêng ngay trong app (Theo dõi tin → Tin nhắn)",
+    "Thêm WhatsApp và Telegram: tin chưa trả lời hiện chung trong Hộp phản hồi và mục Tin nhắn, trả lời từng tin (không gửi hàng loạt)",
+    "Kết nối ở Cài đặt → WhatsApp / Telegram, quét mã bằng điện thoại"
   ],
   "mandatory": false,
   "needLicense": true,
   "minVersion": "2.4",
-  "file": "ban/capnhat-2.9.3.bin",
-  "size": 615845,
-  "sha256": "cd0145aacfd561e4a591dc0275c1d7de4bf46738c76fb3373ff55462329684bd",
-  "sig": "DmVQicI6WuyCQw6F7eiL524clF34nCGaoFN4u7OZB5GYC8Cy1BX_4pqIB9pK5uhBxOpGFawuFrrmAZjb1hmWDA"
+  "file": "ban/capnhat-2.10.0.bin",
+  "size": 9969131,
+  "sha256": "c1d7d95e69b6d4a7bc00b607ec435d971a5244c149cdaff7f2a66049376296d2",
+  "sig": "RCcMijLni_Dnt2Ei5HuKmM8qCNmopFIpQSIc6r1f06Q7UIIup5fkU_v1m_VxGiDjRl1yviUw_BMzVHLcOMcLBQ"
 }
