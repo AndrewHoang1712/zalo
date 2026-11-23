@@ -1,17 +1,16 @@
 {
   "app": "gui-nhom-zalo",
-  "version": "2.10.8",
+  "version": "2.10.9",
   "date": "2026-11-23",
   "notes": [
-    "Khung Tin nhắn có thêm tính năng cơ bản giống Zalo: thu hồi tin, thả cảm xúc 👍 ❤️ 😆 😮 😭 😡 và xem cảm xúc người khác thả, sao chép tin, xoá ở phía bạn — chuột phải (điện thoại: nhấn giữ) vào tin",
-    "Tag tên bằng @ khi soạn tin trong nhóm (nhóm Zalo có @All nhắc cả nhóm)",
-    "Gửi ảnh, file ngay trong khung chat: nút ghim, dán ảnh Ctrl + V hoặc kéo thả file"
+    "Sửa lỗi xoá tin trong khung Tin nhắn (Xoá ở phía bạn, trong app hoặc trên điện thoại Zalo) làm hiện ra các dòng \"[Tin nhắn]\" — các dòng đã hiện cũng tự được dọn",
+    "Tin thẻ tài khoản ngân hàng Zalo hiện đúng tên thay cho \"[Tin nhắn]\""
   ],
   "mandatory": false,
   "needLicense": true,
   "minVersion": "2.4",
-  "file": "ban/capnhat-2.10.8.bin",
-  "size": 9669184,
-  "sha256": "37dbb63cba6da363f1a090900fff8d40c3cd81a674d276e90a3f685c6d2f4e49",
-  "sig": "ryFOpAZZciBSuWToeS_R49M0bCYswM3v4VmTLMnEjSo2VmhbCi9Ve1dtNFu2Zh5djxI0RkkYvrMIt14QeuxbBA"
+  "file": "ban/capnhat-2.10.9.bin",
+  "size": 9671109,
+  "sha256": "b636a15bf6af77377184a3f339cfd8b138f7c27ea5245d3daf212d1608a02ae2",
+  "sig": "nBieNoQbx22aCJNiQ44snl48NKqhZ4Wru9WI2BiBqU_z9KhKam4GA6-JE8ook4I3bsVnXVHQIL7c9DZO2wxkDw"
 }
