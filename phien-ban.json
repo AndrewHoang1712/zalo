@@ -1,18 +1,18 @@
 {
   "app": "gui-nhom-zalo",
-  "version": "2.10.2",
+  "version": "2.10.3",
   "date": "2026-11-23",
   "notes": [
-    "Giao diện mới: thanh menu bên trái thu/mở được (trên điện thoại là thanh dưới đáy); ô tài khoản ở góc dưới chọn xem tin của Tất cả / Zalo / WhatsApp / Telegram",
-    "Tìm nhanh Ctrl + K: gõ tên trang, nhóm, người hoặc lệnh (không dấu cũng được) rồi Enter để mở",
-    "Cài đặt có ô Tình trạng app (lỗi gần đây, kết nối, bản quyền) và ô Thông báo bật/tắt nhanh; bấm chuột phải ở Tin nhắn và Hộp phản hồi để mở menu nhanh",
-    "Thêm ảnh/video/file có khung tiến độ, file lỗi tải lại được; Xuất lịch sử chat có vòng tiến độ và nút Dừng; hướng dẫn bắt đầu 4 bước cho máy mới"
+    "Sửa lỗi cập nhật trên Windows báo “Không ghi được file mới: EPERM … bufferutil.node”",
+    "Giao diện mới: thanh menu bên trái, ô tài khoản chọn xem tin Tất cả / Zalo / WhatsApp / Telegram, Tìm nhanh Ctrl + K",
+    "Cài đặt có ô Tình trạng app và ô Thông báo bật/tắt nhanh; bấm chuột phải ở Tin nhắn và Hộp phản hồi để mở menu nhanh",
+    "Thêm ảnh/video/file có khung tiến độ; Xuất lịch sử chat có nút Dừng; bộ Tổng hợp mới mặc định tắt tự tổng hợp và gửi về Zalo"
   ],
   "mandatory": false,
   "needLicense": true,
   "minVersion": "2.4",
-  "file": "ban/capnhat-2.10.2.bin",
-  "size": 10029341,
-  "sha256": "54968152f8289215fb2285656d6bf69640d8619b040732d2b0cabd5797a06bd0",
-  "sig": "vKEj8oiHV25uCTZvfFD_cEpqdeL7mZ8lzyMG-I-G2wyYB3rNkMNTtDwBVasMIOoqtTsM-C1HZrwegdzuVS1-CQ"
+  "file": "ban/capnhat-2.10.3.bin",
+  "size": 9631905,
+  "sha256": "800d77cbb30ce1785478b21fc16e9251d9344df1fca1199b3c84135ef04ee7e8",
+  "sig": "zG9-E-sUgMDt_gb-q1epQxDRS3DzDLVXWtthbBrmV8J83HlaQLc2SfQsjZHL7oR9wGJCHprksQFKhlivh0zKAQ"
 }
