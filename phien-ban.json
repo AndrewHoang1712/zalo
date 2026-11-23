@@ -1,16 +1,17 @@
 {
   "app": "gui-nhom-zalo",
-  "version": "2.10.9",
+  "version": "2.10.10",
   "date": "2026-11-23",
   "notes": [
-    "Sửa lỗi xoá tin trong khung Tin nhắn (Xoá ở phía bạn, trong app hoặc trên điện thoại Zalo) làm hiện ra các dòng \"[Tin nhắn]\" — các dòng đã hiện cũng tự được dọn",
-    "Tin thẻ tài khoản ngân hàng Zalo hiện đúng tên thay cho \"[Tin nhắn]\""
+    "Đọc tin trên Zalo, Telegram, WhatsApp ở điện thoại / máy khác thì mục Tin nhắn trong app cũng tự bỏ dấu chưa đọc",
+    "Sửa tên nhóm hiện sai kiểu “Nhóm 51643”; tên người nhắn và tên được tag (@) hiện theo tên anh lưu giống Zalo, tên được tag hiện đậm; đầu khung chat nhóm có số thành viên và nhãn Zalo",
+    "Tin đã “Xoá ở phía bạn” không bị hiện lại; ảnh / file trong tin cũ app tự lưu mở được (tính từ bản này)"
   ],
   "mandatory": false,
   "needLicense": true,
   "minVersion": "2.4",
-  "file": "ban/capnhat-2.10.9.bin",
-  "size": 9671109,
-  "sha256": "b636a15bf6af77377184a3f339cfd8b138f7c27ea5245d3daf212d1608a02ae2",
-  "sig": "nBieNoQbx22aCJNiQ44snl48NKqhZ4Wru9WI2BiBqU_z9KhKam4GA6-JE8ook4I3bsVnXVHQIL7c9DZO2wxkDw"
+  "file": "ban/capnhat-2.10.10.bin",
+  "size": 9681020,
+  "sha256": "917ad8484ffba96186b2aa46088a3bf79762c90dee04c6d8070b15949f188cfe",
+  "sig": "7_eVZCrIyNLLIkbc5RuynWOgikFCSDmTJWMl23JfziJYafREo-c-4nKZb-7DazSLvTnoQLaBVrLjIhCr8iG9Cg"
 }
