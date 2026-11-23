@@ -1,16 +1,17 @@
 {
   "app": "gui-nhom-zalo",
-  "version": "2.10.7",
+  "version": "2.10.8",
   "date": "2026-11-23",
   "notes": [
-    "Tin nhắn mở được file trong tin: PDF, Excel, Word… bấm Mở để xem, Tải về để lưu; ảnh, video, tin nhắn thoại xem và nghe ngay trong khung chat (Zalo, Telegram, WhatsApp)",
-    "Chuyển tiếp tin sang cuộc trò chuyện khác, kể cả khác ứng dụng Zalo ⇄ Telegram ⇄ WhatsApp: rê chuột vào tin bấm nút mũi tên, chọn tối đa 5 nơi, kèm lời nhắn nếu cần"
+    "Khung Tin nhắn có thêm tính năng cơ bản giống Zalo: thu hồi tin, thả cảm xúc 👍 ❤️ 😆 😮 😭 😡 và xem cảm xúc người khác thả, sao chép tin, xoá ở phía bạn — chuột phải (điện thoại: nhấn giữ) vào tin",
+    "Tag tên bằng @ khi soạn tin trong nhóm (nhóm Zalo có @All nhắc cả nhóm)",
+    "Gửi ảnh, file ngay trong khung chat: nút ghim, dán ảnh Ctrl + V hoặc kéo thả file"
   ],
   "mandatory": false,
   "needLicense": true,
   "minVersion": "2.4",
-  "file": "ban/capnhat-2.10.7.bin",
-  "size": 9648333,
-  "sha256": "38aef540c641344b67097123c868a946ebe13b3d65f5cd4b30c35dc9ae0c85d8",
-  "sig": "Z9KTjONE9wpKMykU_KHoQ5e6pgsf2X1_FiFOkndJe5_d8LokC_PZzadUelh8nCM4bLgRW44L4VckXIKJ6YLMCw"
+  "file": "ban/capnhat-2.10.8.bin",
+  "size": 9669184,
+  "sha256": "37dbb63cba6da363f1a090900fff8d40c3cd81a674d276e90a3f685c6d2f4e49",
+  "sig": "ryFOpAZZciBSuWToeS_R49M0bCYswM3v4VmTLMnEjSo2VmhbCi9Ve1dtNFu2Zh5djxI0RkkYvrMIt14QeuxbBA"
 }
