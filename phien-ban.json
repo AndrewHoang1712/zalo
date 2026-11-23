@@ -1,16 +1,16 @@
 {
   "app": "gui-nhom-zalo",
-  "version": "2.10.6",
+  "version": "2.10.7",
   "date": "2026-11-23",
   "notes": [
-    "Tin nhắn: hiện đúng tin cuộc gọi Zalo — Cuộc gọi thoại / video đến, đi, nhỡ kèm thời lượng (trước đây hiện “[Link] sendBubbleMessage”)",
-    "Các tin cuộc gọi đã lưu từ trước cũng tự hiện lại đúng"
+    "Tin nhắn mở được file trong tin: PDF, Excel, Word… bấm Mở để xem, Tải về để lưu; ảnh, video, tin nhắn thoại xem và nghe ngay trong khung chat (Zalo, Telegram, WhatsApp)",
+    "Chuyển tiếp tin sang cuộc trò chuyện khác, kể cả khác ứng dụng Zalo ⇄ Telegram ⇄ WhatsApp: rê chuột vào tin bấm nút mũi tên, chọn tối đa 5 nơi, kèm lời nhắn nếu cần"
   ],
   "mandatory": false,
   "needLicense": true,
   "minVersion": "2.4",
-  "file": "ban/capnhat-2.10.6.bin",
-  "size": 9632351,
-  "sha256": "5f533aed6a9e24ea0f3586cedd0a6898e134ae08826c64f6ac7c9681a37d2010",
-  "sig": "WEHzHEXz29QKhzP0kfFtPtIEh4h4V9wHI3VYYBDU5ytJO-Hn6OBRCLwwz2meAwBj2bOj4x7q_FZEJ_vNhzhICQ"
+  "file": "ban/capnhat-2.10.7.bin",
+  "size": 9648333,
+  "sha256": "38aef540c641344b67097123c868a946ebe13b3d65f5cd4b30c35dc9ae0c85d8",
+  "sig": "Z9KTjONE9wpKMykU_KHoQ5e6pgsf2X1_FiFOkndJe5_d8LokC_PZzadUelh8nCM4bLgRW44L4VckXIKJ6YLMCw"
 }
