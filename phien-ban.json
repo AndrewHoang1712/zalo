@@ -1,17 +1,18 @@
 {
   "app": "gui-nhom-zalo",
-  "version": "2.10.1",
-  "date": "2026-11-22",
+  "version": "2.10.2",
+  "date": "2026-11-23",
   "notes": [
-    "Mục Tin nhắn chia Ưu tiên / Khác như Zalo: bấm ⋯ hoặc chuột phải vào cuộc trò chuyện → Chuyển sang mục Khác",
-    "Lọc nhanh tin Zalo / Telegram / WhatsApp ở mục Tin nhắn và Hộp phản hồi",
-    "Ghim cuộc trò chuyện lên đầu, đánh dấu đã đọc; mục Khác không làm tăng số đếm, không báo tin mới"
+    "Giao diện mới: thanh menu bên trái thu/mở được (trên điện thoại là thanh dưới đáy); ô tài khoản ở góc dưới chọn xem tin của Tất cả / Zalo / WhatsApp / Telegram",
+    "Tìm nhanh Ctrl + K: gõ tên trang, nhóm, người hoặc lệnh (không dấu cũng được) rồi Enter để mở",
+    "Cài đặt có ô Tình trạng app (lỗi gần đây, kết nối, bản quyền) và ô Thông báo bật/tắt nhanh; bấm chuột phải ở Tin nhắn và Hộp phản hồi để mở menu nhanh",
+    "Thêm ảnh/video/file có khung tiến độ, file lỗi tải lại được; Xuất lịch sử chat có vòng tiến độ và nút Dừng; hướng dẫn bắt đầu 4 bước cho máy mới"
   ],
   "mandatory": false,
   "needLicense": true,
   "minVersion": "2.4",
-  "file": "ban/capnhat-2.10.1.bin",
-  "size": 9972455,
-  "sha256": "a54f786e3bc9d878d889265e6060e7d906f6b9b3e1eb638fb4351e27cd5e329a",
-  "sig": "0TSY3cYZXuIpeoKjLON7GNwYb0UbnqzkZAWT47eGVNi8LUbYSzpZudayf7Cz9QInZl1Gph4BWflUZlyrM5xTAg"
+  "file": "ban/capnhat-2.10.2.bin",
+  "size": 10029341,
+  "sha256": "54968152f8289215fb2285656d6bf69640d8619b040732d2b0cabd5797a06bd0",
+  "sig": "vKEj8oiHV25uCTZvfFD_cEpqdeL7mZ8lzyMG-I-G2wyYB3rNkMNTtDwBVasMIOoqtTsM-C1HZrwegdzuVS1-CQ"
 }
