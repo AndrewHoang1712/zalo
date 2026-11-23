@@ -1,18 +1,16 @@
 {
   "app": "gui-nhom-zalo",
-  "version": "2.10.5",
+  "version": "2.10.6",
   "date": "2026-11-23",
   "notes": [
-    "Sửa Tin nhắn Zalo mở nhóm không thấy tin gần đây: app lấy thêm tin từ kho tin app tự lưu (3 tháng)",
-    "Giao diện đồng bộ lại theo kiểu cũ: thanh lọc Hộp phản hồi, tab Ưu tiên / Khác, Tìm nhanh, menu chuột phải, Cài đặt…",
-    "Dấu nhận diện Zalo / Telegram / WhatsApp ở góc ảnh đại diện; Nhóm loại trừ: ẩn nhóm không dùng tới khỏi Tin nhắn, Hộp phản hồi, Chờ hồi âm và danh sách gửi tin",
-    "Loại trừ nhanh: chuột phải vào nhóm ở Tin nhắn → Loại trừ nhóm này, hoặc tick nhiều nhóm ở Cài đặt → Nhóm loại trừ"
+    "Tin nhắn: hiện đúng tin cuộc gọi Zalo — Cuộc gọi thoại / video đến, đi, nhỡ kèm thời lượng (trước đây hiện “[Link] sendBubbleMessage”)",
+    "Các tin cuộc gọi đã lưu từ trước cũng tự hiện lại đúng"
   ],
   "mandatory": false,
   "needLicense": true,
   "minVersion": "2.4",
-  "file": "ban/capnhat-2.10.5.bin",
-  "size": 9630217,
-  "sha256": "f502f76010ba576a8a474b979c9fe627f1067f15e6db3dc6eae6c62184a3b646",
-  "sig": "JNRQ48DDKNlDS399JB9cQqwJK1dYxz-2UzJzQ7hq1WthApjE96PZwTCPOcuXiYAXr0zOAwEOHKU_aMpjD7ixDA"
+  "file": "ban/capnhat-2.10.6.bin",
+  "size": 9632351,
+  "sha256": "5f533aed6a9e24ea0f3586cedd0a6898e134ae08826c64f6ac7c9681a37d2010",
+  "sig": "WEHzHEXz29QKhzP0kfFtPtIEh4h4V9wHI3VYYBDU5ytJO-Hn6OBRCLwwz2meAwBj2bOj4x7q_FZEJ_vNhzhICQ"
 }
