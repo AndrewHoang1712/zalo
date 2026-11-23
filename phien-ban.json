@@ -1,17 +1,18 @@
 {
   "app": "gui-nhom-zalo",
-  "version": "2.10.4",
+  "version": "2.10.5",
   "date": "2026-11-23",
   "notes": [
-    "Bỏ thanh menu bên trái, quay về thanh menu trên cùng như trước (Theo dõi tin · Gửi tin · Cài đặt)",
-    "Đăng xuất và Bản quyền nằm lại ở góc trên bên phải; nút kính lúp ở thanh trên cùng để Tìm nhanh (Ctrl + K)",
-    "Giữ các tính năng mới: Tình trạng app, khung tiến độ tải file, menu chuột phải, Xuất lịch sử chat có nút Dừng"
+    "Sửa Tin nhắn Zalo mở nhóm không thấy tin gần đây: app lấy thêm tin từ kho tin app tự lưu (3 tháng)",
+    "Giao diện đồng bộ lại theo kiểu cũ: thanh lọc Hộp phản hồi, tab Ưu tiên / Khác, Tìm nhanh, menu chuột phải, Cài đặt…",
+    "Dấu nhận diện Zalo / Telegram / WhatsApp ở góc ảnh đại diện; Nhóm loại trừ: ẩn nhóm không dùng tới khỏi Tin nhắn, Hộp phản hồi, Chờ hồi âm và danh sách gửi tin",
+    "Loại trừ nhanh: chuột phải vào nhóm ở Tin nhắn → Loại trừ nhóm này, hoặc tick nhiều nhóm ở Cài đặt → Nhóm loại trừ"
   ],
   "mandatory": false,
   "needLicense": true,
   "minVersion": "2.4",
-  "file": "ban/capnhat-2.10.4.bin",
-  "size": 9620634,
-  "sha256": "0bfd00f42c95cbc035d74bd90599966b9f33e83451a01b91aba192430f52723b",
-  "sig": "hDmoLS3wQJbboTx5h3xVyU_MSy7OSQ6ZqNm1mV1pF5ZJBLugiQMsIFGGE_6LGISRBzsHoVDm_DVlxpleewxmBg"
+  "file": "ban/capnhat-2.10.5.bin",
+  "size": 9630217,
+  "sha256": "f502f76010ba576a8a474b979c9fe627f1067f15e6db3dc6eae6c62184a3b646",
+  "sig": "JNRQ48DDKNlDS399JB9cQqwJK1dYxz-2UzJzQ7hq1WthApjE96PZwTCPOcuXiYAXr0zOAwEOHKU_aMpjD7ixDA"
 }
