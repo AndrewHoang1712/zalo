@@ -1,17 +1,17 @@
 {
   "app": "gui-nhom-zalo",
-  "version": "2.10.10",
-  "date": "2026-11-23",
+  "version": "2.10.11",
+  "date": "2026-11-24",
   "notes": [
-    "Đọc tin trên Zalo, Telegram, WhatsApp ở điện thoại / máy khác thì mục Tin nhắn trong app cũng tự bỏ dấu chưa đọc",
-    "Sửa tên nhóm hiện sai kiểu “Nhóm 51643”; tên người nhắn và tên được tag (@) hiện theo tên anh lưu giống Zalo, tên được tag hiện đậm; đầu khung chat nhóm có số thành viên và nhãn Zalo",
-    "Tin đã “Xoá ở phía bạn” không bị hiện lại; ảnh / file trong tin cũ app tự lưu mở được (tính từ bản này)"
+    "Giao diện mới “kính lỏng” cho toàn app: thanh trên cùng, thanh mục, hộp thoại, tìm nhanh, menu dạng kính mờ nổi; thẻ, danh sách, bong bóng tin nền trắng dễ đọc; giờ và số đếm thẳng hàng",
+    "Tin nhắn chia 4 cột: cột chọn ứng dụng bên trái, danh sách (thêm lọc Ghim), khung chat có đầu và khung soạn tin nổi, tin của anh màu xanh",
+    "Cột chi tiết bên phải: Thông tin, Tóm tắt cuộc trò chuyện (AI hoặc lọc nhanh), Ghi chú · việc cần làm, Ảnh / tệp đã gửi"
   ],
   "mandatory": false,
   "needLicense": true,
   "minVersion": "2.4",
-  "file": "ban/capnhat-2.10.10.bin",
-  "size": 9681020,
-  "sha256": "917ad8484ffba96186b2aa46088a3bf79762c90dee04c6d8070b15949f188cfe",
-  "sig": "7_eVZCrIyNLLIkbc5RuynWOgikFCSDmTJWMl23JfziJYafREo-c-4nKZb-7DazSLvTnoQLaBVrLjIhCr8iG9Cg"
+  "file": "ban/capnhat-2.10.11.bin",
+  "size": 9712975,
+  "sha256": "8c4d23cd1c84dbce4f66eb7a18e297c779807f03caa5f79304fb3a825355f4f3",
+  "sig": "5VBqJz5BAyxtPINLgRDX_pWEUr_gltdMWm1BBs0S_t2nCBOGEyDIi4Py2YYrx4vIF-U0JbZ6L9Lf9LqhODffBQ"
 }
