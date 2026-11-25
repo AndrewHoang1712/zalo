@@ -1,17 +1,16 @@
 {
   "app": "gui-nhom-zalo",
-  "version": "2.10.11",
-  "date": "2026-11-24",
+  "version": "2.10.12",
+  "date": "2026-11-25",
   "notes": [
-    "Giao diện mới “kính lỏng” cho toàn app: thanh trên cùng, thanh mục, hộp thoại, tìm nhanh, menu dạng kính mờ nổi; thẻ, danh sách, bong bóng tin nền trắng dễ đọc; giờ và số đếm thẳng hàng",
-    "Tin nhắn chia 4 cột: cột chọn ứng dụng bên trái, danh sách (thêm lọc Ghim), khung chat có đầu và khung soạn tin nổi, tin của anh màu xanh",
-    "Cột chi tiết bên phải: Thông tin, Tóm tắt cuộc trò chuyện (AI hoặc lọc nhanh), Ghi chú · việc cần làm, Ảnh / tệp đã gửi"
+    "Thêm nút “Đọc hết” trong Tin nhắn: đánh dấu đã đọc mọi cuộc trò chuyện đang hiện trong danh sách",
+    "Chuẩn bị đồng bộ “đã đọc trên Zalo điện thoại”: app ghi lại các loại tín hiệu Zalo gửi về (không lưu nội dung tin) để tìm đúng tín hiệu"
   ],
   "mandatory": false,
   "needLicense": true,
   "minVersion": "2.4",
-  "file": "ban/capnhat-2.10.11.bin",
-  "size": 9712975,
-  "sha256": "8c4d23cd1c84dbce4f66eb7a18e297c779807f03caa5f79304fb3a825355f4f3",
-  "sig": "5VBqJz5BAyxtPINLgRDX_pWEUr_gltdMWm1BBs0S_t2nCBOGEyDIi4Py2YYrx4vIF-U0JbZ6L9Lf9LqhODffBQ"
+  "file": "ban/capnhat-2.10.12.bin",
+  "size": 9717001,
+  "sha256": "167a499e0c0357382fd8e19e587d7ac3c1e6c989b3ce20c8293d9be77547ce25",
+  "sig": "gMfCu-cJ7yJEQGja0hsEqmXXSTUCEAmy9cqR10ugFwWXH5FZkCBnYECt0mggvomFE3oucMRAE-7o08Awo8CkDg"
 }
