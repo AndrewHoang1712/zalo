@@ -1,16 +1,16 @@
 {
   "app": "gui-nhom-zalo",
-  "version": "2.10.12",
-  "date": "2026-11-25",
+  "version": "2.10.13",
+  "date": "2026-11-28",
   "notes": [
-    "Thêm nút “Đọc hết” trong Tin nhắn: đánh dấu đã đọc mọi cuộc trò chuyện đang hiện trong danh sách",
-    "Chuẩn bị đồng bộ “đã đọc trên Zalo điện thoại”: app ghi lại các loại tín hiệu Zalo gửi về (không lưu nội dung tin) để tìm đúng tín hiệu"
+    "Đọc tin Zalo trên điện thoại hoặc Zalo PC thì khung Tin nhắn trong app tự bỏ dấu chưa đọc",
+    "Telegram rớt kết nối (mạng chập chờn, đổi wifi, máy ngủ dậy) thì app tự kết nối lại sau khoảng 1 phút, không cần đăng nhập lại"
   ],
   "mandatory": false,
   "needLicense": true,
   "minVersion": "2.4",
-  "file": "ban/capnhat-2.10.12.bin",
-  "size": 9717001,
-  "sha256": "167a499e0c0357382fd8e19e587d7ac3c1e6c989b3ce20c8293d9be77547ce25",
-  "sig": "gMfCu-cJ7yJEQGja0hsEqmXXSTUCEAmy9cqR10ugFwWXH5FZkCBnYECt0mggvomFE3oucMRAE-7o08Awo8CkDg"
+  "file": "ban/capnhat-2.10.13.bin",
+  "size": 9719265,
+  "sha256": "4f3671f5c5e92b61409b13597b47f2659c3bff6459469cd61ef8e92f2eb66690",
+  "sig": "qhC9k1-6Pxy7qK-dcej3Tp453aOFe6m1ocC81hr_FSEtd0X2tVx8832Xr4Uj4jyFcZp_VSWB0iqLuEKYovdhAA"
 }
