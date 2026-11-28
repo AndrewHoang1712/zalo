@@ -1,16 +1,16 @@
 {
   "app": "gui-nhom-zalo",
-  "version": "2.10.13",
+  "version": "2.10.14",
   "date": "2026-11-28",
   "notes": [
-    "Đọc tin Zalo trên điện thoại hoặc Zalo PC thì khung Tin nhắn trong app tự bỏ dấu chưa đọc",
-    "Telegram rớt kết nối (mạng chập chờn, đổi wifi, máy ngủ dậy) thì app tự kết nối lại sau khoảng 1 phút, không cần đăng nhập lại"
+    "Mục Tin nhắn tự hiện tin mới của mọi nhóm Telegram, kể cả nhóm đông người và tin đến lúc app tắt hay mất mạng, không cần bấm vào từng nhóm",
+    "Đọc tin Telegram trên điện thoại thì app bỏ dấu chưa đọc chắc chắn hơn"
   ],
   "mandatory": false,
   "needLicense": true,
   "minVersion": "2.4",
-  "file": "ban/capnhat-2.10.13.bin",
-  "size": 9719265,
-  "sha256": "4f3671f5c5e92b61409b13597b47f2659c3bff6459469cd61ef8e92f2eb66690",
-  "sig": "qhC9k1-6Pxy7qK-dcej3Tp453aOFe6m1ocC81hr_FSEtd0X2tVx8832Xr4Uj4jyFcZp_VSWB0iqLuEKYovdhAA"
+  "file": "ban/capnhat-2.10.14.bin",
+  "size": 9720774,
+  "sha256": "66d6c61f3cb14bd4c31848a78141512f9831e5035c471552c278a63245a9a878",
+  "sig": "8mOVoC5xAbo58cFe9lQvrh4aq2iCNkrGLO5AU1srYhSviJEB99FBcl3JZx1COyqAmNsYf-q18ifYg__dR-txCw"
 }
